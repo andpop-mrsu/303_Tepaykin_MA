@@ -1,11 +1,11 @@
 # genres.txt
-Поля:
+Fields:
 1. genres: string
 Количество строк:
 18
 
 # movies.csv
-Поля:
+Fields:
 1. movieId: int
 2. title: string
 3. genres: string
@@ -13,13 +13,13 @@
 9742
 
 # occupation.txt
-Поля:
+Fields:
 1. occupation: string
 Количество строк:
 21
 
 # ratings.csv
-Поля:
+Fields:
 1. userId: int
 2. movieId: int
 3. rating: float
@@ -28,7 +28,7 @@
 23773
 
 # tags.csv
-Поля:
+Fields:
 1. userId: int
 2. movieId: int
 3. tag: string
@@ -37,7 +37,7 @@
 3683
 
 # users.txt
-Поля:
+Fields:
 1. userInfo: string
 Количество строк:
 943
